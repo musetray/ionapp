@@ -1,6 +1,6 @@
 {
-  "name": "Ionic",
-  "short_name": "Ionic",
+  "name": "Musetray",
+  "short_name": "Musetray",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{
